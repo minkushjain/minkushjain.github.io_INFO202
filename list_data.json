@@ -1,22 +1,39 @@
 {
-	"movies": [
+	"Restaurants": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+		  "name": "The Gourmet Bistro",
+		  "cuisine": "French",
+		  "location": "123 Elm Street, New York, NY",
+		  "rating": 4.8,
+		  "price_range": "$$$"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+		  "name": "Sushi Heaven",
+		  "cuisine": "Japanese",
+		  "location": "456 Maple Avenue, San Francisco, CA",
+		  "rating": 4.7,
+		  "price_range": "$$"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+		  "name": "La Dolce Vita",
+		  "cuisine": "Italian",
+		  "location": "789 Olive Road, Miami, FL",
+		  "rating": 4.9,
+		  "price_range": "$$$"
+		},
+		{
+		  "name": "Spice of India",
+		  "cuisine": "Indian",
+		  "location": "101 Curry Lane, Austin, TX",
+		  "rating": 4.6,
+		  "price_range": "$$"
+		},
+		{
+		  "name": "Taco Fiesta",
+		  "cuisine": "Mexican",
+		  "location": "202 Fiesta Blvd, Los Angeles, CA",
+		  "rating": 4.5,
+		  "price_range": "$"
 		}
-	]
+	  ]
 }
